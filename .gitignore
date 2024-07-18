@@ -1,0 +1,10 @@
+*.idea
+backend/node_modules/
+backend/logs/*
+dirtpanel/node_modules/
+*.env
+*.iml
+dirtpanel/debug.log
+panel-plugin/local.properties
+dirtpanel/.eslintcache
+*.xml

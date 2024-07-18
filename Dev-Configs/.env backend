@@ -1,0 +1,28 @@
+# Discord Information
+DISCORD_CLIENT_ID=[Redacted]
+DISCORD_CLIENT_SECRET=[Redacted]
+DISCORD_REDIRECT_URI=http://localhost:3000/redirects/auth
+
+# SQL Instance
+SQL_HOST=[Redacted]
+SQL_USER=[Redacted]
+SQL_PASSWORD=[Redacted]
+
+# SQL Databases
+SQL_PANEL_DB_NAME=dirtpanel
+SQL_PLAYERDATA_DB_NAME=playerdata
+SQL_LUCKPERMS_DB_NAME=luckperms
+
+# Luckperms Database Info
+SQL_FTB_LUCKPERMS_PREFIX=luckperms
+SQL_PIXELMON_LUCKPERMS_PREFIX=pixelmon
+
+# Service Socket Connection Token
+SOCKET_CONN_TOKEN=[Redacted]
+
+# Environment Control
+# Comment out for development
+# ENVIRONMENT=production
+
+# Other
+PORT=5000

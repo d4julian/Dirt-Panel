@@ -1,0 +1,8 @@
+[submodule "PanelPlugin"]
+	path = PanelPlugin
+	url = https://github.com/Dirt-Craft/PanelPlugin
+	branch = master
+[submodule "Dirt-Panel-Daemon"]
+	path = Dirt-Panel-Daemon
+	url = https://github.com/Dirt-Craft/Dirt-Panel-Daemon
+	branch = master

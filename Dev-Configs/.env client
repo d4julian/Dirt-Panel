@@ -1,0 +1,6 @@
+# Auth Information
+REACT_APP_DISCORD_CLIENT_ID=[Redacted]
+
+# Endpoint Information
+REACT_APP_API_ENDPOINT=http://localhost:5000/
+REACT_APP_SOCKET_ENDPOINT=http://localhost:5000/
